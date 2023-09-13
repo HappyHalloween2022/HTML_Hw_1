@@ -1,0 +1,41 @@
+
+a {
+    text-decoration: none;
+ }
+.nav {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    line-height: 20px;
+    gap: 40px;
+    list-style: none;
+}
+.heading {
+ display: flex;
+ justify-content: center;
+ color: #222222;
+ font-size: 28px;
+ line-height: 36px;
+ font-weight: bold;
+}
+
+.image {
+ width: 370px;
+ height: 425px;
+}
+
+.heading2 {
+color: coral;
+font-weight: 700;
+font-style: normal;
+font-size: 36px;
+line-height: 80px;
+}
+
+.paragraph {
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+color: #7D7987;
+}
